@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
-title: Titre du site.
-description: Description du site.
+title: Médialab BAnQ
+description: Une plateforme de type médialab.
 organisation_repos_url: https://github.com/medialab-banq/
 show_downloads: false
 google_analytics: UA-12469043-29
