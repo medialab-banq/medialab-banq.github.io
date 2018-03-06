@@ -1,4 +1,5 @@
 ---
+# Front matter comment to ensure Jekyll properly reads file.
 ---
 
 @import "{{ site.theme }}";
@@ -6,4 +7,9 @@
 // Enlever le shadow sur image.
 .img-responsive {
     box-shadow: none;
+}
+
+// Fond blanc.
+#main_content_wrap {
+    background: White;
 }
