@@ -5,3 +5,5 @@ Sed condimentum, ante id laoreet dapibus, turpis nisl viverra felis, a suscipit 
 ## Remerciements
 
 ![test image](/assets/logos-2.jpg){:class="img-responsive"}
+
+[![test image](image "tooltip"){:class="img-responsive"}](https://www.banq.qc.ca/)
