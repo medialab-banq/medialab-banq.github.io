@@ -7,7 +7,7 @@
 // Enlever le shadow sur image.
 .img-responsive {
     box-shadow: none;
-    max-width: 100%;
+    max-width: 24%; /* À la limite de ce qu'il est possible de faire avec Jekyll simplement (afficher tous les logos avec liens) */
 }
 
 // Fond blanc.
