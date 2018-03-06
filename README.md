@@ -1,4 +1,4 @@
 
-Le texte de mise en contexte.
+Remerciements
 
 ![test image](/assets/logos.jpg){:class="img-responsive"}
