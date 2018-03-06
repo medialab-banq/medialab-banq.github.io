@@ -4,7 +4,7 @@ Sed condimentum, ante id laoreet dapibus, turpis nisl viverra felis, a suscipit 
 
 ## Remerciements
 
-[![Plan culturel numérique du Québec](/assets/logos-0-0.jpg){:class="img-responsive"}](http://culturenumerique.mcc.gouv.qc.ca/)
-[![BAnQ - Bibliothèque et Archives nationales du Québec.](/assets/logos-1-0.jpg){:class="img-responsive"}](https://www.banq.qc.ca/)
-[![Banque Nationale](/assets/logos-2-0.jpg){:class="img-responsive"}](https://www.bnc.ca/)
-[![Fondation BAnQ](/assets/logos-3-0.jpg){:class="img-responsive"}](https://fondation.banq.qc.ca/)
+[![Plan culturel numérique du Québec](/assets/logo-0-0.jpg){:class="img-responsive"}](http://culturenumerique.mcc.gouv.qc.ca/)
+[![BAnQ - Bibliothèque et Archives nationales du Québec.](/assets/logo-1-0.jpg){:class="img-responsive"}](https://www.banq.qc.ca/)
+[![Banque Nationale](/assets/logo-2-0.jpg){:class="img-responsive"}](https://www.bnc.ca/)
+[![Fondation BAnQ](/assets/logo-3-0.jpg){:class="img-responsive"}](https://fondation.banq.qc.ca/)
