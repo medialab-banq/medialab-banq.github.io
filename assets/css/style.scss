@@ -5,7 +5,7 @@
 @import "{{ site.theme }}";
 
 // Enlever le shadow sur image.
-.img-responsive img {
+.img-responsive {
     box-shadow: none;
     max-width: 100%;
 }
