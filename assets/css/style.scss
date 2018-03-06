@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Enlever le shadow sur image.
+.img-responsive {
+    box-shadow: none;
+}
