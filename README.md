@@ -1,4 +1,4 @@
 
 Remerciements
 
-![test image](/assets/logos.jpg){:class="img-responsive"}
+![test image](/assets/logos-2.jpg){:class="img-responsive"}
