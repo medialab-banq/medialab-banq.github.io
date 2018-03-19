@@ -6,8 +6,9 @@ Cette matrice a été construite sur mesure pour permettra à tous les médialab
 
 Mise en valeur de projets de création des usagers, diffusion de fiches projets et de tutoriels, inventaire des outils numériques et équipements disponibles, publicité d’activités de programmation et des concours, signalement de nouveautés et plus encore : la matrice promet de répondre aux différents besoins des médialabs.
 
-Lien vers le guide d’installation : 
-https://github.com/medialab-banq/platform-shell-plugin/wiki/Installation-simple
+Lien vers le guide d’installation :
+
+[https://github.com/medialab-banq/platform-shell-plugin/wiki/Installation-simple](https://github.com/medialab-banq/platform-shell-plugin/wiki/Installation-simple)
 
 N'hésitez pas à communiquer avec nous si vous désirez de plus amples informations. Nous serions aussi ravis de recevoir vos impressions sur cette matrice. 
 
@@ -17,7 +18,7 @@ L’équipe du Square Banque Nationale
 
 ## Renseignements et commentaires
 
-plateforme-medialab@banq.qc.ca
+[plateforme-medialab@banq.qc.ca](mailto:plateforme-medialab@banq.qc.ca)
 
 ## Remerciements
 
